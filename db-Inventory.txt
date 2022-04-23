@@ -1,0 +1,3 @@
+Nama Perangkat : Cisco ASA 5511, Lokasi: Gedung B
+Nama Perangkat : Cisco R.2811, Lokasi: gedung 
+Nama Perangkat : Mikrotik RJ 11, Lokasi: Gedung C
